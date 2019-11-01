@@ -122,7 +122,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wang, Jie
 
-- [ ] Warner, Kyle
+- [ ] Warner, Kyle is terrible at coding
 
 - [ ] Yuan, Xin
 
